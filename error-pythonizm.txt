@@ -1,0 +1,46 @@
+1:
+http://localhost:8000/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/cgi/
+https://www.python-izm.com/web/wsgi/wsgi_request/
+
+2:
+https://twitter.com/share?text=%E6%9C%80%E5%B0%8F%E5%80%A4%E3%83%BB%E6%9C%80%E5%A4%A7%E5%80%A4%E3%81%AE%E5%8F%96%E5%BE%97&url=https%3A%2F%2Fwww.python-izm.com%2Fadvanced%2Fmin_max%2F へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/advanced/min_max/
+
+3:
+https://twitter.com/search?q=https%3A%2F%2Fwww.python-izm.com%2Fadvanced%2Fproperty%2F へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/advanced/property/
+
+4:
+http://127.0.0.1:8000/event/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/django/django_first_process_part2/
+
+5:
+http://127.0.0.1:8000/event/table/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/django/django_first_process_part2/
+
+6:
+http://localhost:8000/cgi-bin/main.py へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/cgi/cgi_request/
+
+7:
+http://localhost:8000/cgi-bin/main.py?name=test_user&email=test_user@example.com へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/cgi/cgi_request/
+
+8:
+http://127.0.0.1:8000/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/django/django_first_process_part1/
+
+9:
+http://localhost:8000/?name=test_user&email=test_user@example.com へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python-izm.com/web/wsgi/wsgi_request/
+
