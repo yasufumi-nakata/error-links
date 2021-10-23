@@ -1,0 +1,27 @@
+1:
+https://startupmj.stores.jp/?category_id=5fc9d5f98a4572598942648a へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python.jp/index_4.html
+https://www.python.jp/news/2020-12-09-event.html
+https://www.python.jp/index_tag_tags_event.html
+
+2:
+https://startupmj.stores.jp/items/5fc9d62872eb4660a1431b4a へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python.jp/index_4.html
+https://www.python.jp/news/2020-12-09-event.html
+https://www.python.jp/index_tag_tags_event.html
+
+3:
+https://startupmj.stores.jp/items/5fc9d7d2b00aa314711a9300 へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python.jp/index_4.html
+https://www.python.jp/news/2020-12-09-event.html
+https://www.python.jp/index_tag_tags_event.html
+
+4:
+https://centos.pkgs.org/7/epel-x86_64/openssl11-libs-1.1.1g-3.el7.x86_64.rpm.html へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.python.jp/news/wnpython310/require-openssl11.html
+
+

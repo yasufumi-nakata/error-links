@@ -1,0 +1,36 @@
+1:
+https://www.matrixflow.net/en/information-security-policy/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/en/privacypolicy/
+https://www.matrixflow.net/en/terms/
+https://www.matrixflow.net/en/
+
+2:
+https://www.matrixflow.net/en/personal-information-protection/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/en/privacypolicy/
+https://www.matrixflow.net/en/terms/
+https://www.matrixflow.net/en/
+
+3:
+https://www.matrixflow.net/en/portal へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/en/portal/
+
+4:
+https://www.udemy.com/course/ai-matrixflow-benesse1/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/
+https://www.matrixflow.net/en/
+
+5:
+https://www.meti.go.jp/press/2016/06/20160610002/20160610002.html へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/news/2019/05/25/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e4%b8%8d%e8%a6%81%e3%81%aeai%e6%a7%8b%e7%af%89%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e3%80%8cmatrixflo/
+
+6:
+https://www.tedxhitotsubashi.com へ到達できません。
+このURLへは次のURLからリンクされています。
+https://www.matrixflow.net/news/2019/11/20/matrixflow%e3%81%8c%e4%b8%80%e6%a9%8b%e5%a4%a7%e5%ad%a6%e3%80%8ctedxhitotsubashiu%e3%80%8d%e3%81%ab%e5%8d%94%e8%b3%9b/
+
+
