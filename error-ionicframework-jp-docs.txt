@@ -1,0 +1,62 @@
+1:
+https://codepen.io へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+
+2:
+https://ionic.io/jp/docs/appflow へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+3:
+https://ionic.io/jp/docs/auth-connect へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+4:
+https://ionic.io/jp/docs/identity-vault へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+5:
+https://ionic.io/jp/docs/premier-plugins へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+6:
+https://ionic.io/jp/docs/premier-plugins/camera へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+7:
+https://ionic.io/jp/docs/secure-storage へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+8:
+https://ionicworldwide.herokuapp.com/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://ionicframework.com/jp/docs/intro/cdn
+https://ionicframework.com/jp/docs/intro/cli
+https://ionicframework.com/jp/docs/intro/environment
+https://ionicframework.com/jp/docs/intro/next
+
+
