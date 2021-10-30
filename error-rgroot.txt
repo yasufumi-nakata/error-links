@@ -1,0 +1,6 @@
+1:
+http://web.sfc.wide.ad.jp/~kei/ へ到達できません。
+このURLへは次のURLからリンクされています。
+https://rgroot.sfc.wide.ad.jp/
+https://rgroot.sfc.wide.ad.jp/index.en.html
+https://rgroot.sfc.wide.ad.jp/index.html
